@@ -1,2 +1,2 @@
-# Machine-Learning-e-Data-Science-com-Python
- Curso de Machine Learning e Data Science com Python ATUALIZADO
+# Machine Learning e Data Science com Python
+ Curso de Machine Learning e Data Science com Python
